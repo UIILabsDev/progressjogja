@@ -34,6 +34,26 @@ This is Islamic University of Indonesia Labs Projects
       IT'S TIME TO START. LET'S WRITE A CODE :)
 ```
 
+# Tutorial Version Control GitHub
+```
+Cara Remote Github dengan Command Line :
+ - git init
+ - git add answer atau git add * //disini answer merupakan folder yg ingin di upload atau untuk add semuanya
+ - git commit -m "First Commit" //Ini untuk commit file ke repo lokal
+ - git remote add origin https://github.com/nmfzone/yourproject.git //project yg akan di remote
+ - git push -u origin master //ini untuk submit repo lokal ke repo online github
+
+Apabila ada file di repo github yg tidak ada di repo lokal :
+ - git pull https://github.com/nmfzone/yourproject.git
+ - atau git pull origin master
+
+Merubah/Menambah repo github :
+ - git remote set-url origin git@github.com:username/projectname.git
+ 
+Menghapus remote repo github :
+ - git remote rm origin
+ ```
+
 # Keterangan
 ```
   Jadi, Versioning Control itu cara kerja para software developer zaman sekarang dengan memanfaatkan
