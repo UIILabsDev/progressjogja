@@ -1,0 +1,148 @@
+[06-Mar-2015 17:57:59 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/janganta/public_html/explodezon.com/wp-content/themes/basiczone/functions.php on line 474
+[06-Mar-2015 17:57:59 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/janganta/public_html/explodezon.com/wp-content/themes/basiczone/functions.php on line 475
+[06-Mar-2015 17:57:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NO' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 17:58:00 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/janganta/public_html/explodezon.com/wp-content/themes/basiczone/functions.php on line 474
+[06-Mar-2015 17:58:00 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/janganta/public_html/explodezon.com/wp-content/themes/basiczone/functions.php on line 475
+[06-Mar-2015 17:58:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NO' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:10:45 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:10:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:11:18 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:12:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:16:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:16:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:17:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[06-Mar-2015 19:17:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[07-Mar-2015 12:21:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[07-Mar-2015 12:25:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[09-Mar-2015 19:40:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[12-Mar-2015 22:33:46 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 1
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[13-Mar-2015 12:36:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
+[13-Mar-2015 12:36:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW(' at line 2 for query SELECT p.*, count(tr.object_id) as count
+			FROM wp_term_taxonomy AS tt, wp_term_relationships AS tr, wp_posts AS p WHERE tt.taxonomy ='post_tag' AND tt.term_taxonomy_id = tr.term_taxonomy_id AND tr.object_id  = p.ID AND tt.term_id IN () AND p.ID != 4
+				AND p.post_status = 'publish'
+				AND p.post_date_gmt < NOW()
+ 			GROUP BY tr.object_id
+			ORDER BY count DESC, p.post_date_gmt DESC
+			LIMIT 8; made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/basiczone/single.php'), do_shortcode, preg_replace_callback, do_shortcode_tag, call_user_func, related_posts_shortcode
